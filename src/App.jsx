@@ -105,11 +105,11 @@ function App() {
               <p>Choose the correct build for your Android architecture and start using the free version right away.</p>
             </div>
             <div className="download-cards">
-              <a className="download-card" href="/vultravpn110-v8a.apk">
+              <a className="download-card" href="/vultravpn-v8a.apk">
                 <span className="download-label">For Modern Android Device(arm-v8)</span>
                 <strong>Download</strong>
               </a>
-              <a className="download-card" href="/vultravpn110-v7a.apk">
+              <a className="download-card" href="/vultravpn-v7a.apk">
                 <span className="download-label">For Older Android Device(arm-v7)</span>
                 <strong>Download</strong>
               </a>

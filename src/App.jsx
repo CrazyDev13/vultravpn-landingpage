@@ -131,8 +131,7 @@ function App() {
                 <p>Instant access without a subscription. Download the right version of APK and connect quickly.</p>
                 <ul>
                   <li>Unlimited internet access</li>
-                  <li>Standard speed servers</li>
-                  <li>Connection renews every hour</li>
+                  <li>Standard speed servers</li>                  
                 </ul>
                 <p className="subscribe-note">Free users have limited access to premium servers</p>
               </div>

@@ -75,7 +75,7 @@ function App() {
           <div className="container">
             <div className="section-header">
               <span>Why VultraVPN?</span>
-              <h2>Built for speed, privacy, and ease.</h2>
+              <h2>Built for stable, privacy, and ease.</h2>
             </div>
             <div className="feature-grid">
               <article className="feature-card">
@@ -106,11 +106,11 @@ function App() {
             </div>
             <div className="download-cards">
               <a className="download-card" href="/vultravpn110-v8a.apk">
-                <span className="download-label">Android arm-v8</span>
+                <span className="download-label">For Modern Android Device(arm-v8)</span>
                 <strong>Download</strong>
               </a>
               <a className="download-card" href="/vultravpn110-v7a.apk">
-                <span className="download-label">Android arm-v7</span>
+                <span className="download-label">For Older Android Device(arm-v7)</span>
                 <strong>Download</strong>
               </a>
             </div>
@@ -128,13 +128,13 @@ function App() {
               <div className="subscribe-card">
                 <div className="plan-label">Free</div>
                 <h3>Free Version</h3>
-                <p>Instant access without a subscription. Download the arm-v8 or arm-v7 APK and connect quickly.</p>
+                <p>Instant access without a subscription. Download the right version of APK and connect quickly.</p>
                 <ul>
                   <li>Unlimited internet access</li>
                   <li>Standard speed servers</li>
                   <li>Connection renews every hour</li>
                 </ul>
-                <p className="subscribe-note">Free users have limited access to premium servers and sessions will reconnect hourly.</p>
+                <p className="subscribe-note">Free users have limited access to premium servers</p>
               </div>
               <div className="subscribe-card subscribe-card-premium">
                 <div className="plan-badge">Best Value</div>
